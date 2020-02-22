@@ -4,7 +4,7 @@ BMI = weight / (height * height);
 if (BMI < 18.5){
     console.log(`BMI: ${BMI}. Thiếu cân`);
 }
-    else if(BMI >= 18,5 && BMI <= 22.99){
+    else if(BMI >= 18.5 && BMI <= 22.99){
         console.log(`BMI: ${BMI}. Bình thường`);
     }
     else if(BMI >= 25 && BMI <= 29.99){
